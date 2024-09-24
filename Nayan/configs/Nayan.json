@@ -1,4 +1,8 @@
 {
+  "login": {
+    "email": "tafriyaefa@gmail.com",
+    "password": "01709045joy"
+  },
   "loginoptions": {
     "selfListen": false,
     "selfListenEvent": false,
@@ -17,7 +21,7 @@
   "allowInbox": false,
   "adminOnly": false,
   "autoCreateDB": true,
-  "encryptSt": true,
+  "encryptSt": false,
   "version": "4.0.0",
   "logs": {
     "enable": true
@@ -66,5 +70,8 @@
   },
   "weather": {
     "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
+  },
+  "speech": {
+    "name": "Nabanita"
   }
 }
